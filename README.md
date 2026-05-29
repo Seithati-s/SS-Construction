@@ -42,6 +42,28 @@ SS Construction has completed over 340 residential and commercial projects acros
 - Part 2: Css styling
 - Part 3: Javascripot
 
+ ## Part 1 Details
+ 
+### Pages Completed
+ 
+| File | Page | Description |
+|---|---|---|
+| `index.html` | Home | Hero with animated stats, services preview, testimonials, why-us section, CTA banner |
+| `about.html` | About Us | Founding story, mission & vision, team profiles, accreditation section |
+| `services.html` | Services | Photo-driven service showcase (6 services), portfolio photo grid, 5-step process |
+| `enquiry.html` | Enquiry | Three-tab form (Construction / Volunteer / Sponsorship), sidebar info, success state |
+| `contact.html` | Contact | Contact info strip, two Google Maps embeds, business hours, contact form |
+ ## Part 2 Details
+ 
+- CSS custom properties (design tokens) for colour, typography, spacing, and layout consistency.
+- Base styles and CSS reset for cross-browser consistency.
+- Typography using **Oswald** (display/headings) and **Barlow** (body text) from Google Fonts.
+- Layout built with CSS Flexbox and CSS Grid.
+- Three responsive breakpoints: desktop (default), tablet (≤768px), and mobile (≤480px).
+- Responsive images using `srcset` and `sizes`.
+- Scroll reveal animations using the native Intersection Observer API (no external libraries).
+- Hover, focus, and active pseudo-class states applied to all interactive elements.
+
 ## Sitemap
  
 ```
