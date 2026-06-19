@@ -15,8 +15,7 @@ Rosebank International
 This project is a multi-page static website built for **SS Construction**, a construction company based in Limpopo, South Africa, founded in 2017. The website was developed as part of a web development assignment and demonstrates the use of HTML5, CSS3, and responsive design techniques.
  
 SS Construction has completed over 340 residential and commercial projects across Limpopo and North West. The website serves as their digital presence, providing potential clients with information about the company, its services, and a way to get in touch.
-- **Live Site:** [https://ss-construction.netlify.app](https://ss-construction.netlify.app) *(update with your real URL)*
-- **GitHub Repository:** [https://github.com/yourusername/ss-construction](https://github.com/yourusername/ss-construction) *(update with your real URL)*
+- **Live Site:** 
 - **Storyline:** SS Construction offers residential, commercial, and industrial building services across Gauteng. The site promotes their services, showcases completed projects, and allows potential clients to submit enquiries and general messages.
 - **Colour Palette:** Navy (#1B2A4A) and Gold (#C9A84C)
 - **Technology:** Pure HTML5, CSS3, and Vanilla JavaScript — no frameworks
